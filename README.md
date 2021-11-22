@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bdedwardovich
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning "Modern Web Application Architecture", "Java", "JS", "Node.js", "C", "Go".
-- 💞️ I’m looking to collaborate on product companies
+- 💞️ I’m looking to collaborate on outsource company.
 - 📫 How to reach me dimokskyn@gmail.com / ds: Dimoks#6748
 
 <!---
