@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @bdedwardovich
-- 👀 I’m interested in backend
+- 👋 Hi, I’m Dmytrii
 - 🌱 I’m currently learning "Java".
 - 💞️ I’m looking to collaborate on outsource company.
 - 📫 How to reach me dimokskyn@gmail.com / ds: Dimoks#6748
