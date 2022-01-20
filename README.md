@@ -3,5 +3,6 @@
 - 💻 Core Stack: **Java**. Mainly focused on Backend.
 - 📫 How to reach me dimokskyn@gmail.com | ds: Dimoks#6748
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=borymskyi&show_icons=true&hide_title=true&theme=onedark" alt="borymskyi" /></p>
-<a href="https://github.com/borymskyi"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borymskyi&layout=compact&langs_count=10&hide_border=true&theme=onedark&custom_title=Most+used+languages&hide=javascript,sass,makefile,shell%22%20alt=%22koddr%27s%20language%20stats"/>
+</a>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=borymskyi&show_icons=true&hide_border=true&hide_title=true&theme=dark&line_height=22" alt="borymskyi github stats" /></a>
+
+<a href="https://github.com/borymskyi"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borymskyi&layout=compact&langs_count=10&hide_border=true&theme=dark&hide=javascript,sass,makefile,shell%22%20alt=%22borymskyi%27s%20language%20stats"/>
