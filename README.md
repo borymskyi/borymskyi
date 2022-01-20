@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dmytrii
+## 👋 Hi, I’m Dmytrii Borymskyi
 - 🌱 I’m currently learning "Java".
-- 💞️ I’m looking to collaborate on outsource company.
+- 💻 Core Stack: **Java**. Mainly focused on Backend.
 - 📫 How to reach me dimokskyn@gmail.com / ds: Dimoks#6748
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=borymskyi&show_icons=true&hide_title=true" alt="borymskyi" /></p>
