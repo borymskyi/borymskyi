@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Dmytrii Borymskyi
-- 💻 Core Stack: **Java**(Core, EE), **Spring Framework**(Spring Core, Spring MVC, Spring Boot).
-- 📫 How to reach me dimokskyn@gmail.com | [LinkedIn](https://www.linkedin.com/in/borymskyi/)
+- 💻 Core Stack: **Java**, **Spring Framework**(Core, MVC, Boot).
+- 📫 How to reach me dimokskyn@gmail.com | [LinkedIn](https://www.linkedin.com/in/borymskyi/) | [Telegram](https://t.me/borymskyi)
 
 </a>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=borymskyi&show_icons=true&hide_border=true&hide_title=true&theme=dark&line_height=22" alt="borymskyi github stats" /></a>
 
