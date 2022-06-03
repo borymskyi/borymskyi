@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Dmytrii+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Dmytrii+GitHub+Profile!&color=71E8F3)](https://git.io/typing-svg)
 
 ## 👋 Hi, I’m Dmytrii Borymskyi
 - 💻 I'm a Java developer
@@ -15,3 +15,8 @@
   <img width="56%" src="https://github-readme-stats.vercel.app/api?username=borymskyi&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true" />
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borymskyi&layout=compact&langs_count=10&hide_border=true&theme=radical&hide=sass,makefile,shell,mustache" />
 </p>
+
+<details>
+  <summary> ⚡ GitHub Activity</summary>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dmytrii Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=borymskyi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</details>
