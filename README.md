@@ -3,7 +3,7 @@
 ## 👋 Hi, I’m Dmytrii Borymskyi
 - 💻 I'm a Java developer
 - 💻 Core Stack: **Java**, **Spring**, **PostgreSQL**, **Vue.js**, **Maven & Gradle**, **Git**.
-- 📍 I'm from Ukraine, Kyiv.
+- 📍 I'm from <a href="https://www.google.com/maps/place/Kyiv+Ukraine" target="_blank">Ukraine, Kyiv</a>
 - 🕸️ I am most passionate about tech, and a little music, nature, sports, books and socio-economic processes.
 - 🤝 I like to meet new people
 - 📫 How to reach me dimokskyn@gmail.com | [LinkedIn](https://www.linkedin.com/in/borymskyi/) | [Telegram](https://t.me/borymskyi)
