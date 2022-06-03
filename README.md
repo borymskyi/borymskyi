@@ -18,5 +18,5 @@
 
 <details>
   <summary> ⚡ GitHub Activity</summary>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dmytrii Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=borymskyi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dmytrii Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=borymskyi&bg_color=151222&color=F8D866&line=7EEAF4&point=FFFFFF&hide_border=true" /></a>
 </details>
