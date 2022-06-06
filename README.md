@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Dmytrii+GitHub+Profile!&color=71E8F3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Dmytrii+GitHub+Profile!&color=7EEAF4)](https://git.io/typing-svg)
 
 ## 👋 Hi, I’m Dmytrii Borymskyi
 - 💻 I'm a Java developer
