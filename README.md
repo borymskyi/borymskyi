@@ -3,7 +3,7 @@
 ## 👋 Hi, I’m Dmytrii Borymskyi
 - 💻 Core Stack: **Java**, **Spring Framework**, **PostgreSQL**, **Vue.js**, **Gradle**, **Git**.
 - 📍 I'm from <a href="https://www.google.com/maps/place/Kyiv+Ukraine" target="_blank">Ukraine, Kyiv</a>
-- 🕸️ Interested in tech, balance of health and sport, and economic processes.
+- 🔥 Interested in tech, balance of health and sport, and economic processes.
 - 📫 How to reach me dimokskyn@gmail.com | [LinkedIn](https://www.linkedin.com/in/borymskyi/) | [Telegram](https://t.me/borymskyi)
 
 ## 📈 GitHub Stats
