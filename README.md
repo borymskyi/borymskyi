@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Dmytrii+GitHub+Profile!&color=7EEAF4)](https://git.io/typing-svg)
 
 ## 👋 Hi, I’m Dmytrii Borymskyi
-- 💻 Core Stack: **Java**, **Spring(Core, Boot, MVC, Security, Data)**, **PostgreSQL**, **Gradle**, **Git**.
+- 💻 Core Stack: **Java**, **Spring(Core, MVC, Boot, Data, Security)**, **PostgreSQL**, **Gradle**, **Git**.
 - 📍 I'm from <a href="https://www.google.com/maps/place/Kyiv+Ukraine" target="_blank">Ukraine, Kyiv</a>
 - 🔥 Interested in tech, balance of health and sport, and economic processes.
 - 📫 How to reach me dimokskyn@gmail.com | [LinkedIn](https://www.linkedin.com/in/borymskyi/) | [Telegram](https://t.me/borymskyi)
