@@ -1,16 +1,18 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wake+up,+Neo...&font=Courier&color=7EEAF4)](https://git.io/typing-svg)
 
-<!--
-**borymskyi/borymskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I’m Dmytrii Borymskyi
+- 💻 Core Stack: **Java**(8, 11, 17), **Spring(IoC, Boot, Security, Data Jpa)**, **SQL**(PostgreSQL), **JUnit 5**, **Gradle**/**Maven**, **Docker**, **Git**.
+- 📍 I'm from <a href="https://www.google.com/maps/place/Kyiv+Ukraine" target="_blank">Ukraine, Kyiv</a>
+- 🔥 I value passion, hard work, and obsessive attention to detail (aka craftsmanship).
+- 🤝 Check my resume: [Resume in English](https://docs.google.com/document/d/1FtXPUYZws1z0mNK5K9x08vHcVXZ_Xd1lWU2GgoVufJk/edit?usp=sharing)
+- 📫 How to reach me dimokskyn@gmail.com | [LinkedIn](https://www.linkedin.com/in/borymskyi/) | [Telegram](https://t.me/borymskyi)
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<p>
+  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=borymskyi&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borymskyi&layout=compact&langs_count=10&hide_border=true&theme=radical&hide=sass,makefile,shell,mustache" />
+</p>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=borymskyi&style=flat-square&color=blueviolet)
