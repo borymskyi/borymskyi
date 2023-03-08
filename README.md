@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wake+up,+Neo...&font=Courier&color=7EEAF4)](https://git.io/typing-svg)
 
 ## 👋 Hi, I’m Dmytrii Borymskyi
-- 💻 Core Stack: **Java**(8, 11, 17), **Spring(IoC, Boot, Security, Data Jpa)**, **SQL**(PostgreSQL), **JUnit 5**, **Gradle**/**Maven**, **Docker**, **Git**.
+- 💻 Core Stack: **Java**, **Spring(Boot, Web, Data JPA, Security)**, **Postgres**, **JUnit 5**, **Maven**, **Docker**, **Git**.
 - 📍 I'm from <a href="https://www.google.com/maps/place/Kyiv+Ukraine" target="_blank">Ukraine, Kyiv</a>
 - 🔥 I value passion, hard work, and obsessive attention to detail (aka craftsmanship).
 - 🤝 Check my resume: [Resume in English](https://docs.google.com/document/d/1FtXPUYZws1z0mNK5K9x08vHcVXZ_Xd1lWU2GgoVufJk/edit?usp=sharing)
