@@ -4,8 +4,8 @@
 - 💻 Core Stack: **Java**, **Spring(Boot, Web, Data JPA, Security)**, **Postgres**, **JUnit 5**, **Maven**, **Docker**, **Git**.
 - 📍 I'm from <a href="https://www.google.com/maps/place/Kyiv+Ukraine" target="_blank">Ukraine, Kyiv</a>
 - 🔥 I value passion, hard work, and obsessive attention to detail (aka craftsmanship).
-- 🤝 Check my resume: [Resume in English](https://docs.google.com/document/d/1FtXPUYZws1z0mNK5K9x08vHcVXZ_Xd1lWU2GgoVufJk/edit?usp=sharing)
-- 📫 How to reach me dimokskyn@gmail.com | [LinkedIn](https://www.linkedin.com/in/borymskyi/) | [Telegram](https://t.me/borymskyi)
+- 🤝 Check my resume: [Resume in English](https://docs.google.com/document/d/16RI_KjAKP1ep1mM9MUbmlz8AcAPahoI2asZb5cK-Ybw/edit?usp=sharing)
+- 📫 How to reach me dimokskyn@gmail.com | [LinkedIn](https://www.linkedin.com/in/borymskyi/)
 
 ## 📈 GitHub Stats
 
