@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wake+up,+Neo...&font=Courier&color=7EEAF4)](https://git.io/typing-svg)
 
 ## 👋 Hi, I’m Dmytrii Borymskyi
-- 💻 Core Stack: **Java**, **Spring(Boot, Web, Data JPA, Security)**, **PostgreSQL**, **JUnit**, **Maven/Gradle**, **Docker**, **Git**.
+- 💻 Core Stack: **Java**, **Spring(Boot, Data JPA, Security)**, **Hibernate**, **PostgreSQL**, **Flyway**, **JUnit/Mockito/TestContainers**, **Maven/Gradle**, **Kafka**, **Docker**, **Git**.
 - 📍 I'm from Ukraine
 - 🔥 I value passion, hard work, and obsessive attention to detail (aka craftsmanship).
-- 🤝 Check my resume: [Resume in English](https://docs.google.com/document/d/16RI_KjAKP1ep1mM9MUbmlz8AcAPahoI2asZb5cK-Ybw/edit?usp=sharing)
-- 📫 How to reach me dimokskyn@gmail.com | [LinkedIn](https://www.linkedin.com/in/borymskyi/)
+- 🤝 Check my resume: [Resume](https://docs.google.com/document/d/16RI_KjAKP1ep1mM9MUbmlz8AcAPahoI2asZb5cK-Ybw/edit?usp=sharing)
+- 📫 How to reach me dimoksb@gmail.com | [LinkedIn](https://www.linkedin.com/in/borymskyi/)
 
 ## 📈 GitHub Stats
 
