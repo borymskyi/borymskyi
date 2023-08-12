@@ -10,7 +10,6 @@
 
 <br>
 <p>
-  <img width="56%" src="https://github-readme-stats.vercel.app/api?username=borymskyi&count_private=true&show_icons=true&theme=radical&hide_border=true&hide_title=true" />
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borymskyi&layout=compact&langs_count=10&hide_border=true&theme=radical&hide=sass,makefile,mustache,HTML" />
 </p>
 
