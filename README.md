@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Wake+up,+Neo...&font=Courier&color=7EEAF4)](https://git.io/typing-svg)
 
 ## 👋 Hi, I’m Dmytrii Borymskyi
-- 💻 Core Stack: **Java**, **Spring ecosystem**, **JUnit/Mockito/TestContainers**, **PostgreSQL**, **Redis**, **Maven/Gradle**, **Docker**. Mainly focused on Backend.
+- 💻 Core Stack: **Java**, **Spring ecosystem**, **JUnit/Mockito/TestContainers**, **PostgreSQL**, **Redis**, **ELK stack**, **Maven/Gradle**, **Docker**. Mainly focused on Backend.
 - 🔥 Interested in Kotlin, Go, DevOps, Blockchain.
 - 🤝 Check my resume: [Resume](https://docs.google.com/document/d/1cpE2EzklIZPjvHqXlAXjyRQZakr00b-YsHSDbNgOglc/edit?usp=sharing)
 - 📫 How to reach me dimoksb@gmail.com | [LinkedIn](https://www.linkedin.com/in/borymskyi/)
