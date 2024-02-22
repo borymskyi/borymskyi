@@ -2,7 +2,7 @@
 
 ## 👋 Hi, I’m Dmytrii Borymskyi
 - 💻 Core Stack: **Java**, **Spring ecosystem**, **JUnit/Mockito/TestContainers**, **PostgreSQL**, **Redis**, **Kafka**, **Maven/Gradle**, **Monolithic**/**Micromonolith**, **Docker**, **Kubernates**.
-- 🔥 Interested in DevOps.
+- 🔥 Interested in DevOps, Elixir/Erlang.
 - 🤝 Check my resume: [Resume](https://docs.google.com/document/d/1cpE2EzklIZPjvHqXlAXjyRQZakr00b-YsHSDbNgOglc/edit?usp=sharing)
 - 📫 How to reach me dimoksb@gmail.com | [LinkedIn](https://www.linkedin.com/in/borymskyi/)
 
