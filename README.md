@@ -10,7 +10,7 @@
 
 <br>
 <p>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borymskyi&layout=compact&langs_count=10&hide_border=true&theme=radical&hide=sass,makefile,mustache,HTML" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borymskyi&layout=compact&langs_count=10&hide_border=true&theme=radical&hide=sass,makefile,mustache,HTML,Shell" />
 </p>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=borymskyi&style=flat-square&color=blueviolet)
