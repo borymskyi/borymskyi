@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Solo+++++++?&font=Courier&color=7EEAF4)](https://git.io/typing-svg)
-
 ## 👋 Hi, I’m Dmytrii Borymskyi
 - 💻 Core Stack: **Elixir/Erlang**.
 - 🔥 Interested in DevOps.
