@@ -1,4 +1,3 @@
-## 👋 Hi, I’m Dmytrii Borymskyi
 - 💻 Core Stack: **Elixir/Erlang**.
 - 🔥 Interested in DevOps.
 - 📫 How to reach me dimoksb@gmail.com | [LinkedIn](https://www.linkedin.com/in/borymskyi/)
